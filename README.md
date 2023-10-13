@@ -1,7 +1,5 @@
 # Text-to-Image Web Application
 
----
-
 Build a Text to Image Web Application using Python, Flask, Google Colab, and ngrok.
 
 ## Description
